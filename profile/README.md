@@ -18,4 +18,4 @@ next       First public release. Details here when it ships.
 
 ### Say hello
 
-[studio.izzata.me](https://studio.izzata.me) · [izzata.me](https://izzata.me)
+[izzat-studio.com](https://izzat-studio.com) · [izzata.me](https://izzata.me)
